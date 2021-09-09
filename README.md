@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# OpinionAte
+
+A project to track dish reviews at different restaurants.
+
+Production URL: <https://opinion-ate-chritical.netlify.app/>
+
+Dependencies are locked with a `yarn.lock` file. Please use `yarn` instead of `npm` to install dependencies.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
